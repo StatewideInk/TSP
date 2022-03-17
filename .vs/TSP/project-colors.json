@@ -1,0 +1,11 @@
+{
+  "Version": 1,
+  "ProjectMap": {
+    "b30654df-84d8-41e8-a2c9-8477b6569220": {
+      "ProjectGuid": "b30654df-84d8-41e8-a2c9-8477b6569220",
+      "DisplayName": "Travellin Salesman Problem",
+      "ColorIndex": 0
+    }
+  },
+  "NextColorIndex": 1
+}
